@@ -1,0 +1,11 @@
+Super Mario
+
+Attributes:
+    i) Lives
+    ii)Coins
+    iii)Multiplier
+
+Method:
+    1) Collect Coins
+    2) Die
+    3) GetMultiplier

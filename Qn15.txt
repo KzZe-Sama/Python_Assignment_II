@@ -1,0 +1,17 @@
+Banking Application
+
+Customer Would Have Attributes Like:
+    i)Customer ID
+    ii)Customer Name
+    iii)Customer Address
+    iv)Customer Email
+    v)Customer Phone-Number
+    vi)Customer Bank-Number
+    vii)Customer Bank-Balance
+
+Application Would Have Methods Like:
+    i)Deposit Fund
+    ii)Withdraw Fund
+    iii)Transfer Fund
+    iv)Utility Payment
+    v)Help
