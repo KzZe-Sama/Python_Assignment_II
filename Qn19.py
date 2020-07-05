@@ -1,3 +1,4 @@
+# Algorithm
 def valid_parenthese(str1):
     stock, characters = [], {"(": ")", "{": "}", "[": "]"}
     for parenthese in str1:
